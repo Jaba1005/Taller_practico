@@ -21,7 +21,7 @@ bash
 python -m venv env
 
 # En Windows
-venv\Scripts\activate
+env\Scripts\activate
 
 3. Instalar las dependencias
 
