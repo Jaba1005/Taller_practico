@@ -23,8 +23,6 @@ python -m venv env
 # En Windows
 venv\Scripts\activate
 
-# En Linux / Mac
-source venv/bin/activate
 3. Instalar las dependencias
 
 Este proyecto usa dos librerías principales: google-genai (SDK de Gemini) y python-dotenv (para leer variables de entorno). Instálalas con:
