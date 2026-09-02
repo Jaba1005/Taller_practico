@@ -20,7 +20,6 @@ cd Taller_practico
 bash
 python -m venv env
 
-# En Windows
 env\Scripts\activate
 
 3. Instalar las dependencias
